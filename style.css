@@ -1,0 +1,16 @@
+#zoznamRokov {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    width: 710px;
+    height: 250px;
+}
+
+p {
+    border: 1px solid black;
+    height: 1.5rem;
+    width: 6rem;
+    margin: 5px;
+}
